@@ -28,5 +28,4 @@ int main(void)
 	printf("Å‘å’l‚Í%d‚Å‚·B\n", max);
 
 	return 0;
-	
 }
